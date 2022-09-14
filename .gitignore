@@ -1,0 +1,5 @@
+casper-node/
+keys/
+node_modules/
+workshop.key
+.DS_Store
